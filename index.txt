@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Liang Zhang
+Liang Zhang
+
 
 Show Contacts
 
 Email
-richard@example.com
+liang.zhang@kaust.edu.sa
 
 Phone
-+1 (213) 352-2795
++966 549695351
 
-Birthday
-June 23, 1982
+#Birthday
+#Aug 7, 1993
 
 Location
-Sacramento, California, USA
+KAUST, Thuwal, Jeddah, Saudi Arabia
 
 # navbar
 
@@ -93,13 +93,13 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+PhD
+King Abdullah University of Science and Technology (KAUST)
+2018 — 2022
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+Master
+King Abdullah University of Science and Technology (KAUST)
+2017 - 2018
 
 High school of art and design
 2002 — 2004
